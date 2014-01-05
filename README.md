@@ -1,6 +1,8 @@
 express-fileuploader-s3
 ===================
 
+[![Dependency Status](https://gemnasium.com/heroicyang/express-fileuploader-s3.png)](https://gemnasium.com/heroicyang/express-fileuploader-s3)
+
 `S3Strategy` for [express-fileuploader](https://github.com/heroicyang/express-fileuploader), use this strategy to upload files to [Amazon S3](http://aws.amazon.com/s3/).
 
 ## Install
