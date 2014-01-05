@@ -1,0 +1,5 @@
+{
+  "key": "your s3 api key",
+  "secret": "your s3 api secret",
+  "bucket": "your bucket name"
+}
