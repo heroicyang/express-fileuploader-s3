@@ -23,7 +23,7 @@ var S3Strategy = require('express-fileuploader-s3');
 var app = express();
 app.use('/upload/image', mutilpart());
 
-uploader.use(new uploader.S3Strategy({
+uploader.use(new S3Strategy({
   uploadPath: '/uploads',
   headers: {
     'x-amz-acl': 'public-read'
